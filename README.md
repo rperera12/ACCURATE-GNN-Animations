@@ -1,4 +1,4 @@
-# ACCURATE-GNN-Animations
+# ACCURATE-Supplementary-Material
 
 
 ### Supplementary Figure 1:
