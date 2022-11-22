@@ -2,7 +2,7 @@
 
 
 ## Supplementary Figure 1:
-### Animation of XFEM-based model (left column) versus ACCURATE prediction (right 
+Animation of XFEM-based model (left column) versus ACCURATE prediction (right 
 column) for the evolution of crack interaction, propagation, and coalescence in test case 
 with vertical domain (2000mm by 3000mm) and arbitrary crack orientations subjected 
 to tension.
